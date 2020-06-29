@@ -1,3 +1,4 @@
 (sym_lib_table
-  (lib (name OGA_ESP12F)(type Legacy)(uri ${KIPRJMOD}/project_libraries/project-symbols/OGA_ESP12F.lib)(options "")(descr ""))
+  (lib (name OGA_ESP12F)(type Legacy)(uri C:/KiCad/OGA_wifi_flex/project_libraries/project-symbols/OGA_ESP12F.lib)(options "")(descr ""))
+  (lib (name OGA_molex)(type Legacy)(uri C:/KiCad/OGA_wifi_flex/project_libraries/project-symbols/5034802000.lib)(options "")(descr ""))
 )
